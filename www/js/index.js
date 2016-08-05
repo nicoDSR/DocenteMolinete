@@ -220,8 +220,7 @@ function capturePhoto() {
         quality: 30,
         targetWidth: 600,
         targetHeight: 600,
-        destinationType: destinationType.FILE_URI,
-        saveToPhotoAlbum: true
+        destinationType: destinationType.FILE_URI
     });
 }
 
