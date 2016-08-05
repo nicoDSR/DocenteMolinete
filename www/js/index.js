@@ -1,4 +1,4 @@
-var server = "http://192.168.0.102:8081";
+var server = "http://192.168.1.146:8081";
 var deviceType;
 var store;
 var pictureSource; 
